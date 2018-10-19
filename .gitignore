@@ -1,0 +1,10 @@
+build
+ntrboot_flasher.*
+*.firm
+*.firm.sha
+*.o
+*.elf
+*.d
+
+*.gch
+*~
